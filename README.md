@@ -17,7 +17,7 @@
 # Artificial Intelligence and Machine Learning Lab Jupiter Notebooks
 
 
-1. [Lab 01](): Introduction to Python Libraries-Numpy
+1. [Lab 01](https://github.com/tabraiz-1768/AIML-2025/blob/main/Lab01-AIML.ipynb): Introduction to Python Libraries-Numpy
 2. [Lab 02](): Introduction to Python Libraries-Numpy
 3. [Lab 03](): Introduction to Python Libraries-Numpy
 4. [Lab 04](): Introduction to Python Libraries-Numpy
