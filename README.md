@@ -11,7 +11,7 @@
 7. [Lab 07](): Introduction to Python Libraries-Numpy
 8. [Lab 08](): Introduction to Python Libraries-Numpy
 9. [Lab 09](): Introduction to Python Libraries-Numpy
-10.[Lab 10](): Introduction to Python Libraries-Numpy
+10. [Lab 10](): Introduction to Python Libraries-Numpy
 
 
 # Artificial Intelligence and Machine Learning Lab Jupiter Notebooks
@@ -26,7 +26,7 @@
 7. [Lab 07](): Introduction to Python Libraries-Numpy
 8. [Lab 08](): Introduction to Python Libraries-Numpy
 9. [Lab 09](): Introduction to Python Libraries-Numpy
-10.[Lab 10](): Introduction to Python Libraries-Numpy
+10. [Lab 10](): Introduction to Python Libraries-Numpy
 
 
 
