@@ -22,7 +22,7 @@
 3. [Lab 03](https://github.com/tabraiz-1768/AIML-2025/blob/main/Lab03_AIML.ipynb): Implement AI Game Strategy
 4. [Lab 04](https://github.com/tabraiz-1768/AIML-2025/blob/main/Lab04_AIML.ipynb): Implement Linear Regression model using US Housing Data
 5. [Lab 05](https://github.com/tabraiz-1768/AIML-2025/blob/main/Lab05_AIML.ipynb): Logistic Regression with Titanic Data Set
-6. [Lab 06](): Introduction to Python Libraries-Numpy
+6. [Lab 06](https://github.com/tabraiz-1768/AIML-2025/blob/main/Lab06_AIML.ipynb): Introduction to Python Libraries-Numpy
 7. [Lab 07](): Introduction to Python Libraries-Numpy
 8. [Lab 08](): Introduction to Python Libraries-Numpy
 9. [Lab 09](): Introduction to Python Libraries-Numpy
