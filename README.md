@@ -8,7 +8,7 @@
 4. [Lab 04](https://github.com/tabraiz-1768/AIML-2025/blob/main/AIML_A4.pdf):Implement Linear Regression model using US Housing Data
 5. [Lab 05](https://github.com/tabraiz-1768/AIML-2025/blob/main/AIML_A5.pdf): Logistic Regression with Titanic Data Set
 6. [Lab 06](https://github.com/tabraiz-1768/AIML-2025/blob/main/AIML_A6.pdf): Introduction to Python Libraries-Numpy
-7. [Lab 07](): Introduction to Python Libraries-Numpy
+7. [Lab 07](https://github.com/tabraiz-1768/AIML-2025/blob/main/AIML_A7.pdf): Introduction to Python Libraries-Numpy
 8. [Lab 08](): Introduction to Python Libraries-Numpy
 9. [Lab 09](): Introduction to Python Libraries-Numpy
 10. [Lab 10](): Introduction to Python Libraries-Numpy
