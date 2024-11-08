@@ -9,10 +9,9 @@
 5. [Lab 05](https://github.com/tabraiz-1768/AIML-2025/blob/main/AIML_A5.pdf): Logistic Regression with Titanic Data Set
 6. [Lab 06](https://github.com/tabraiz-1768/AIML-2025/blob/main/AIML_A6.pdf): Implement the K Nearest Neighbour Classification using Classified Manufacturing Dataset
 7. [Lab 07](https://github.com/tabraiz-1768/AIML-2025/blob/main/AIML_A7.pdf): Implement Support Vector Machine Classification using Student Drop out Dataset
-8. [Lab 08](): Implement Decision Tree Classification using OpenML Car Dataset
-9. [Lab 09](): Implement Random Forest Ensemble Model using Lending Data
-10. [Lab 10](): Introduction to Python Libraries-Numpy
-
+8. [Lab 08](https://github.com/tabraiz-1768/AIML-2025/blob/main/AIML_A8.pdf): Implement Decision Tree Classification using OpenML Car Dataset
+9. [Lab 09](https://github.com/tabraiz-1768/AIML-2025/blob/main/AIML_A9.pdf): Implement Random Forest Ensemble Model using Lending Data
+10. [Lab 10](https://github.com/tabraiz-1768/AIML-2025/blob/main/AIML_A10.pdf):  Implement K-Means Clustering using Synthetic Data
 
 # Artificial Intelligence and Machine Learning Lab Jupiter Notebooks
 
@@ -24,10 +23,9 @@
 5. [Lab 05](https://github.com/tabraiz-1768/AIML-2025/blob/main/Lab05_AIML.ipynb): Logistic Regression with Titanic Data Set
 6. [Lab 06](https://github.com/tabraiz-1768/AIML-2025/blob/main/Lab06_AIML.ipynb): Implement the K Nearest Neighbour Classification using Classified Manufacturing Dataset
 7. [Lab 07](https://github.com/tabraiz-1768/AIML-2025/blob/main/Lab07_AIML.ipynb): Implement Support Vector Machine Classification using Student Drop out Dataset
-8. [Lab 08]():Implement Decision Tree Classification using OpenML Car Dataset
+8. [Lab 08](https://github.com/tabraiz-1768/AIML-2025/blob/main/Lab08_AIML.ipynb):Implement Decision Tree Classification using OpenML Car Dataset
 9. [Lab 09](): Implement Random Forest Ensemble Model using Lending Data
-10. [Lab 10](): Introduction to Python Libraries-Numpy
-
+10. [Lab 10]():  Implement K-Means Clustering using Synthetic Data
 
 
 
